@@ -1,5 +1,10 @@
-# Exercício - POO 2
+# POO 1 - Template de Prática
+**Vamos utilizar esse repositório para as práticas da aula!**
 
-<strong>A partir dessa semana os exercícios voltam a ser independentes. Não se preocupe em centralizá-los em um mesmo repo.</strong>
-<br><br>
-Crie um repo pessoal na sua conta com o nome poo-2-exercicios (ou o nome que você preferir) e trabalhe nele. Será necessário copiar o que você fez no exercício anterior poo-1-exercicios. Caso queira seguir no mesmo repo sinta-se à vontade!
+## Instruções para baixar
+
+1. Faça o fork desse repositório.
+2. No repositório com seu nome de usuário, copie a url.
+3. Abra a pasta onde você guarda os materiais do curso pelo terminal.
+4. Baixe o repositório usando: git clone url-copiada.
+5. Abra a pasta no vscode. Vamos codar!
